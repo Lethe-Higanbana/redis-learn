@@ -66,6 +66,5 @@ public class RedisType {
             String string = (String) iterator.next();
             System.out.println(string);
         }
-
     }
 }
